@@ -23,11 +23,11 @@ font-family: 'Lato', sans-serif;
 .tfl-district {background:#00782a;color:#fff;}
 .tfl-dlr {background:#00A4A7;color:#000;}
 .tfl-hammersmith {background:#f3a9bb;color:#000;}
-.tfl-jubilee {background:#a0a5a9;color:#000;}
-.tfl-metropolitan {background:#9b0056;color:#000;}
+.tfl-jubilee {background:#a0a5a9;color:#fff;}
+.tfl-metropolitan {background:#9b0056;color:#fff;}
 .tfl-northern {background:#000;color:#fff;}
 .tfl-overground {background:#ee7c0e;color:#fff;}
 .tfl-piccadilly {background:#003688;color:#fff;}
 .tfl-tramlink {background:#84B817;color:#fff;}
-.tfl-victoria {background:#0098d4;color:#fff;}
-.tfl-waterloocity {background:#95cdba;color:#fff;}
+.tfl-victoria {background:#0098d4;color:#000;}
+.tfl-waterloocity {background:#95cdba;color:#000;}
