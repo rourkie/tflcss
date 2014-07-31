@@ -1,0 +1,33 @@
+/*
+TFL CSS
+version:   1.0 
+date:      31/07/2014 
+author:    Richard Allen 
+email:     rourkie@gmail.com 
+website:   http://www.richardallen.co.uk
+*/
+
+/*TFL uses New Johnston typeface, which requires a license from here; https://www.tfl.gov.uk/forms/12405.aspx. 
+Lato is a similar looking typeface on Google Fonts. */
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+body{
+font-family: 'Lato', sans-serif;
+}
+
+/*tfl underground colours from http://blog.richardallen.co.uk/london-tube-colours */
+
+.tfl-bakerloo {background:#b36305;color:#fff;}
+.tfl-central {background:#e32017;color:#fff;}
+.tfl-circle {background:#ffd300;color:#000;}
+.tfl-district {background:#00782a;color:#fff;}
+.tfl-dlr {background:#00A4A7;color:#000;}
+.tfl-hammersmith {background:#f3a9bb;color:#000;}
+.tfl-jubilee {background:#a0a5a9;color:#000;}
+.tfl-metropolitan {background:#9b0056;color:#000;}
+.tfl-northern {background:#000;color:#fff;}
+.tfl-overground {background:#ee7c0e;color:#fff;}
+.tfl-piccadilly {background:#003688;color:#fff;}
+.tfl-tramlink {background:#84B817;color:#fff;}
+.tfl-victoria {background:#0098d4;color:#fff;}
+.tfl-waterloocity {background:#95cdba;color:#fff;}
